@@ -36,4 +36,4 @@ TotallyLib.lua=https://raw.githubusercontent.com/Nickieboy/BoL/master/lib/Totall
 VPrediction.lua=https://raw.githubusercontent.com/Ralphlol/BoLGit/master/VPrediction.lua
 YooLib.lua=https://raw.githubusercontent.com/Yoooooo/YoLuaProject/master/YooLib.lua
 Yolib.lua=https://raw.githubusercontent.com/Yoooooo/YoLuaProjects/master/Yolib.lua
-GodLib.lua=https://github.com/GodScripts/GodLib/blob/master/Latest.lua
+GodLib.lua=https://raw.githubusercontent.com/GodScripts/GodLib/master/Latest.lua

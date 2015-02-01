@@ -13,6 +13,7 @@ GodLib.lua=https://raw.githubusercontent.com/GodScripts/GodLib/master/Latest.lua
 ITEM_MANAGER.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/common/ITEM_MANAGER.lua
 ItemRecipes.lua=https://raw.githubusercontent.com/lucas224900/BoL/master/ItemRecipes.lua
 MapPosition.lua=https://raw.githubusercontent.com/c3iL/BoL-1/master/MapPosition.lua
+Prodiction.lua=https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/ec830facccefb3b52212dba5696c08697c3c2854/Test/Prodiction/Prodiction.lua
 RivenORB.lua=https://raw.githubusercontent.com/kokosik1221/bol/master/RivenORB.lua
 SALib.lua=https://raw.githubusercontent.com/SkeemBoL/NintendoBoL/master/BH%20Bundle/Common/SALib.lua
 Selector.lua=http://iuser99.com/scripts/Selector.lua

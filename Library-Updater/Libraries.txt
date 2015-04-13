@@ -19,7 +19,7 @@ Prodiction.lua=https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/ec830
 SALib.lua=https://raw.githubusercontent.com/SkeemBoL/NintendoBoL/master/BH%20Bundle/Common/SALib.lua
 Selector.lua=http://iuser99.com/scripts/Selector.lua
 ShadowVayneLib.lua=https://raw.githubusercontent.com/Superx321/BoL/master/common/ShadowVayneLib.lua
-SourceLib.lua=http://pastebin.com/raw.php?i=EfZ92ZHe
+SourceLib.lua=https://raw.githubusercontent.com/DevnBoL/Scripts/master/Common/SourceLib.lua
 SxOrbWalk.lua=https://raw.githubusercontent.com/Superx321/BoL/master/common/SxOrbWalk.lua
 TotallyLib.lua=https://raw.githubusercontent.com/Nickieboy/BoL/master/lib/TotallyLib.lua
 VPrediction.lua=https://raw.githubusercontent.com/SidaBoL/Scripts/master/Common/VPrediction.lua
